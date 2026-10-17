@@ -1,6 +1,6 @@
 # Case study — Mostova Staffing website (concept)
 
-> Concept project by StackLayer Studio. Mostova Staffing is a fictional company; the brief is modelled on real requests we see from staffing agencies.
+> Concept project. Mostova Staffing is a fictional company; the brief is modelled on real requests we see from staffing agencies.
 
 **Live demo:** https://stacklayer-studio.github.io/mostova-concept/
 
@@ -50,4 +50,4 @@ Next.js + Payload CMS (recruiter panel: applications inbox, statuses, retention)
 
 ---
 
-Want something like this for your business? Message StackLayer Studio on Fiverr.
+Want something like this for your business? Send a message on Fiverr.

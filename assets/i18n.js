@@ -2,7 +2,7 @@
    Plural forms are separated with "|": en = one|other, uk = one|few|many. */
 window.MOSTOVA_I18N = {
 en: {
-  "banner": "Concept project by StackLayer Studio — Mostova Staffing is a fictional company.",
+  "banner": "Concept project — Mostova Staffing is a fictional company.",
   "skip": "Skip to content",
   "brand.home": "Mostova Staffing, home",
   "nav.main": "Main",
@@ -23,7 +23,7 @@ en: {
   "foot.apply": "How to apply", "foot.faq": "Questions and answers",
   "foot.compliance": "Compliance", "foot.process": "How we work", "foot.offices": "Offices",
   "foot.legal": "Mostova Staffing sp. z o.o. (fictional), ul. Przykładowa 00, 90-000 Łódź. KRS 0000000000, NIP 0000000000, employment agency register (KRAZ) no. 00000. All values are samples.",
-  "foot.made": "Design and build: StackLayer Studio.",
+  "foot.made": "Design concept and front-end demo.",
 
   "u.plnh": "PLN/h gross",
   "u.h": "h",
@@ -407,7 +407,7 @@ en: {
   "nf.home": "Go to the home page"
 },
 uk: {
-  "banner": "Концепт-проєкт StackLayer Studio — Mostova Staffing є вигаданою компанією.",
+  "banner": "Концепт-проєкт — Mostova Staffing є вигаданою компанією.",
   "skip": "Перейти до вмісту",
   "brand.home": "Mostova Staffing, головна",
   "nav.main": "Головне меню",
@@ -428,7 +428,7 @@ uk: {
   "foot.apply": "Як подати заявку", "foot.faq": "Запитання й відповіді",
   "foot.compliance": "Легальність", "foot.process": "Як ми працюємо", "foot.offices": "Офіси",
   "foot.legal": "Mostova Staffing sp. z o.o. (вигадана), ul. Przykładowa 00, 90-000 Łódź. KRS 0000000000, NIP 0000000000, реєстр агенцій зайнятості (KRAZ) № 00000. Усі дані умовні.",
-  "foot.made": "Дизайн і розробка: StackLayer Studio.",
+  "foot.made": "Дизайн-концепт і демо інтерфейсу.",
 
   "u.plnh": "зл/год брутто",
   "u.h": " год",

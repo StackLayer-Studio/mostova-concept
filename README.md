@@ -1,6 +1,6 @@
 # Mostova Staffing — website concept
 
-**Concept project by [StackLayer Studio](https://github.com/StackLayer-Studio). Mostova Staffing is a fictional company; all names, numbers and contacts are samples.**
+**Concept project. Mostova Staffing is a fictional company; all names, numbers and contacts are samples.**
 
 Live demo: https://stacklayer-studio.github.io/mostova-concept/
 
