@@ -13,4 +13,6 @@ Design direction "Cold Chain": shift bars and working temperatures on every job,
 
 Also: English / Ukrainian switcher, housing with an interactive district map, accessible forms (labels, live error messages, 44 px tap targets), reduced-motion support, no frameworks.
 
+Read the [case study](CASE-STUDY.md).
+
 Pages are generated from shared templates: `node _build/build.cjs`. Demo only — forms send no data.
